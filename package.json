@@ -2,7 +2,7 @@
   "name": "@glmaster/vue-number-input",
   "version": "1.0.1",
   "description": "Numeric input for vue apps",
-  "main": "Number.vue",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/glmaster123/vue-number-input.git"
