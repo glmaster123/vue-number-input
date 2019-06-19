@@ -1,1 +1,1 @@
-module.exports = require('Number.vue');
+module.exports = require('./Number.vue');
