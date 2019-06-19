@@ -85,7 +85,7 @@
 </template>
 
 <script>
-import Formatters from '../services/formatters';
+import Formatters from '@glmaster/formatters';
 
 export default {
   name: 'number',
